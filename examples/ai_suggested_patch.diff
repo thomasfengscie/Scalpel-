@@ -1,0 +1,9 @@
+*** Begin Patch
+*** Update File: examples/example_project/hello.py
+@@
+-def greet(name):
+-    return "hello " + name
++def greet(name):
++    """Return a friendly greeting with capitalized name."""
++    return f"Hello, {name}!"
+*** End Patch
