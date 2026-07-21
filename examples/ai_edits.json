@@ -1,0 +1,8 @@
+[
+  {
+    "path": "examples/example_project/hello.py",
+    "start": 1,
+    "end": 3,
+    "text": "def greet(name):\n    \"\"\"Return a friendly greeting.\"\"\"\n    return f\"Hello, {name}!\"\n"
+  }
+]
